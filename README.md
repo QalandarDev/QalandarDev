@@ -9,6 +9,6 @@
 
 ![Dynamic name](https://github-readme-stats.vercel.app/api?username=QalandarDev&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?usernameQalandarDev&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QalandarDev&layout=compact&theme=radical)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/QalandarDev/)
