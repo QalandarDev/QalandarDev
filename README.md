@@ -7,8 +7,8 @@
 
 - ⚡ Fun fact :- `One day you'll look back and realize that you worried too much about things that don't really matter.`
 
-![Dynamic name](https://github-readme-stats.vercel.app/api?username=QalandarAxmedov&show_icons=true&theme=radical)
+![Dynamic name](https://github-readme-stats.vercel.app/api?username=QalandarDev&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QalandarAxmedov&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?usernameQalandarDev&layout=compact&theme=radical)
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/QalandarAxmedov/)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/QalandarDev/)
