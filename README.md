@@ -1,9 +1,9 @@
-- 👋 What's up guys, I'm AQDev
-- 💻 I know PHP & MYSQLI & OOP
+- 👋 What's up guys, I'm QalandarDev
+- 💻 I know PHP & MYSQLI & OOP & Yii2 Framework
 - 👨‍💻 I’m looking to collaborate on projects
 - 💬 I'm 21-years old developer from Uzbekistan/Khorezm
-- 🌐 My web-site [softix.uz](http://softix.uz/)
-- 📫 Reach me on [![QalandarAxmedov](https://img.shields.io/badge/QalandarAxmedov-30302f?style=flat&logo=telegram)](https://t.me/QalandarAxmedov)
+- 🌐 My web-site [link](https://linktr.ee/QalandarDev)
+- 📫 Reach me on [![QalandarAxmedov](https://img.shields.io/badge/QalandarAxmedov-30302f?style=flat&logo=telegram)](https://t.me/QalandarDev)
 
 - ⚡ Fun fact :- `One day you'll look back and realize that you worried too much about things that don't really matter.`
 
