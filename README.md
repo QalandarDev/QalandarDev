@@ -1,6 +1,6 @@
 <h2>🏆 Github Profile Trophy</h2>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img  align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=dracula&no-frame=true"/>
+  <img  align="center" src="https://github-profile-trophy.vercel.app/?username=QalandarDev&column=8&theme=dracula&no-frame=true"/>
 </a>
 <div>
     <br>
