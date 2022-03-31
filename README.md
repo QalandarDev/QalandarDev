@@ -7,26 +7,25 @@
 </div>
 <h2 Github Profile Stats</h2>
 <div class="row">
- <div class="col-md-6">
+ <div class="col-md-6" style="width: 100%;">
  <img  src="https://github-readme-stats.vercel.app/api?username=QalandarDev&include_all_commits=true&theme=dracula&show_icons=true" />
-  </div>
-  <img  height="208" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QalandarDev&layout=compact&theme=dracula" />
+ <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=QalandarDev&layout=compact&theme=dracula" />
 </div>
 <div>
 <img src="https://wakatime.com/badge/user/93c646f5-4abf-42cd-826c-f1233bb49706.svg"/>
- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/QalandarDev/)
+<div>
+<i>
+- 👋 What's up guys, I'm QalandarDev<br>
+- 💻 I know PHP & MYSQLI & OOP & Yii2 Framework<br>
+- 👨‍💻 I’m looking to collaborate on projects<br>
+- 💬 I'm 21-years old developer from Uzbekistan/Khorezm<br>
+- 🌐 <a href="https://linktr.ee/QalandarDev">Link tree</a><br>
+- 📫 Reach me on 
+  <a href="https://t.me/QalandarDev">
+  <img src="https://img.shields.io/badge/QalandarAxmedov-30302f?style=flat&logo=telegram"/>
+  </a>
+  
 
-
-- 👋 What's up guys, I'm QalandarDev
-- 💻 I know PHP & MYSQLI & OOP & Yii2 Framework
-- 👨‍💻 I’m looking to collaborate on projects
-- 💬 I'm 21-years old developer from Uzbekistan/Khorezm
-- 🌐 My web-site [link](https://linktr.ee/QalandarDev)
-- 📫 Reach me on [![QalandarDev](https://img.shields.io/badge/QalandarAxmedov-30302f?style=flat&logo=telegram)](https://t.me/QalandarDev)
-
-- ⚡ Fun fact :- `One day you'll look back and realize that you worried too much about things that don't really matter.`
-
+- ⚡ Fun fact :- One day you'll look back and realize that you worried too much about things that don't really matter.
+  </i>
 </div>
-![Dynamic name](https://github-readme-stats.vercel.app/api?username=QalandarDev&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QalandarDev&layout=compact&theme=radical)
