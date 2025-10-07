@@ -17,7 +17,7 @@ I’m open to **remote / international roles** and collaboration on SaaS or back
 
 ### ⚙️ Tech Stack
 
-`PHP` • `Laravel 12` • `Livewire` • `Blade` • `MySQL` • `Redis`  
+`PHP` • `Laravel 12` • `Livewire` • `Blade` • `MySQL` • `PostgreSQL` • `Redis`  
 `Docker` • `Stripe` • `API Design` • `OAuth2` • `GitHub Actions`
 
 ---
