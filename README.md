@@ -26,7 +26,7 @@ I’m open to **remote / international roles** and collaboration on SaaS or back
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| **Construction SaaS** | Multi-company B2B/B2C materials system with billing & feature flags | Laravel 11, Livewire, Redis, Stripe |
+| **Construction SaaS** | Multi-company B2B/B2C materials system with billing & feature flags | Laravel 12, Livewire, Redis, Stripe |
 | **University LMS Integration** | Moodle & HEMIS integration via OAuth2 for regional universities | PHP (Yii2), MySQL, OAuth2 |
 | **Enterprise API Optimization** | Performance & caching improvements for high-traffic APIs | Laravel, Redis, JSON APIs |
 
