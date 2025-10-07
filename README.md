@@ -60,7 +60,7 @@ I’m open to **remote / international roles** and collaboration on SaaS or back
 | 💼 Current Role | Backend Developer — UZINFOCOM |
 | 🌍 Availability | Open to remote / international roles |
 | 💬 Languages | English, Uzbek, Russian |
-| 🧩 Current Focus | Refactoring Yii2 B2B/B2C platform → Laravel 11 SaaS with feature flags & billing |
+| 🧩 Current Focus | Refactoring Yii2 B2B/B2C platform → Laravel 12 SaaS with feature flags & billing |
 
 ---
 
