@@ -78,6 +78,7 @@ I’m open to **remote / international roles** and collaboration on SaaS or back
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/QalandarDev)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QalandarDev)
 [![Email](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail)](mailto:m@qalandar.ru)
+![](https://komarev.com/ghpvc/?username=QalandarDev&style=for-the-badge)
 
 ---
 
@@ -85,3 +86,5 @@ I’m open to **remote / international roles** and collaboration on SaaS or back
 
 I’m passionate about designing and scaling **Laravel SaaS applications**.  
 If your team is looking for a **middle backend engineer** experienced in multi-tenant systems, billing, and secure API architecture — feel free to reach out.
+
+
